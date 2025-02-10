@@ -60,4 +60,4 @@ Feel free to fork this repository and contribute to it. You can:
 	Create a pull request with your changes.
 
 Contact
-If you have any questions, feel free to reach out via [email@example.com] or open an issue on the GitHub repository.
+If you have any questions, feel free to reach out via [hauwasaidushehu2005@gmail.com] or open an issue on the GitHub repository.
