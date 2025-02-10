@@ -20,7 +20,7 @@ This is a feature-rich Java Swing calculator application that supports both basi
 How To Run
 To run this program, follow the instructions below:
 	Clone the repository:
-git clone https://github.com/jiddatulkhaireey/advanced-swing-calculator.git
+git clone https://github.com/jiddatulkhaireey/Swing-Calculator-U23CS1064.git
 
 	Navigate to the project folder:
 cd advanced-swing-calculator
